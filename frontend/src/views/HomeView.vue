@@ -312,7 +312,7 @@
 </template>
 
 <style scoped lang="scss">
-@use "../assets/scss/ds-system/ds-typography";
+@use "@/assets/scss/ds-system/ds-typography";
 
 .content {
   padding-top: 20px;

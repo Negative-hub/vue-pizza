@@ -19,9 +19,9 @@
 </template>
 
 <style scoped lang="scss">
-@use "../assets/scss/ds-system/ds-colors";
-@use "../assets/scss/ds-system/ds-shadows";
-@use "../assets/scss/ds-system/ds-typography";
+@use "@/assets/scss/ds-system/ds-colors";
+@use "@/assets/scss/ds-system/ds-shadows";
+@use "@/assets/scss/ds-system/ds-typography";
 
 .header {
   position: relative;
